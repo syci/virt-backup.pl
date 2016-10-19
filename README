@@ -1,7 +1,7 @@
 Copied from http://repo.firewall-services.com/misc/virt/virt-backup.pl
 This version on https://github.com/vazhnov/virt-backup.pl
 
-Dependences: libxml-simple-perl
+Dependences: libxml-simple-perl libsys-virt-perl libfile-which-perl
 
 # AUTHOR
 #   Daniel Berteaud <daniel@firewall-services.com>
